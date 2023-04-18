@@ -1,0 +1,54 @@
+body{
+    margin: 0 auto;
+    background-color: #FAF0CA;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+
+}
+
+
+body blockquote{
+    text-align: center;
+    size: 2em;
+}
+table{
+
+}
+
+header{
+    font-size: 8em;
+    text-align: center;
+}
+
+nav{
+ color: #0D3B66;
+ 
+}
+
+nav ul{
+    text-align: center;
+    padding: 2%;
+}
+
+nav ul li{
+    display: inline-block;
+    
+}
+
+nav li{
+    
+}
+
+nav a{
+    text-decoration: none;
+}
+
+a:hover{
+ color: #F4D35E;
+}
+
