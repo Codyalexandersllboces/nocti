@@ -1,3 +1,9 @@
+*{
+    margin: 0 auto;
+    border: 0;
+    padding: 0%;
+}
+
 body{
     margin: 0 auto;
     background-color: #FAF0CA;
@@ -11,7 +17,6 @@ h2{
 
 }
 
-
 body blockquote{
     text-align: center;
     size: 2em;
@@ -21,34 +26,82 @@ table{
 }
 
 header{
+    height: 800px;
     font-size: 8em;
     text-align: center;
+    border: 1px solid black;
 }
 
 nav{
  color: #0D3B66;
- 
+ border: 1px solid black;
 }
 
 nav ul{
     text-align: center;
     padding: 2%;
+    border: #0D3B66 thick 5px;
 }
 
 nav ul li{
     display: inline-block;
-    
+    size: 2em;
 }
 
 nav li{
+    padding: 2%;
     
 }
 
 nav a{
     text-decoration: none;
+    
 }
 
 a:hover{
  color: #F4D35E;
 }
+
+main{
+    
+}
+
+main article{
+    width: 80%;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+main article section{
+    padding: 2%;
+}
+
+main button{
+    width: 15%;
+    height: 15%;
+    font-size: .5em;
+}
+
+section{
+    border: 1px solid black;
+}
+
+.one{
+    border: 1px solid black;
+}
+
+.two{
+    border: 1px solid black;
+}
+
+.three{
+    border: 1px solid black;
+}
+ 
+footer{
+    text-align: center;
+    border: 1px solid black;
+    padding: 2%;
+}
+
 
