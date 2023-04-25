@@ -1,0 +1,124 @@
+*{
+    margin: 0 auto;
+    border: 0;
+    padding: 0%;
+}
+
+body{
+    margin: 0 auto;
+    background-color: #FAF0CA;
+}
+
+h1{
+    text-align: center;
+}
+
+body blockquote{
+    padding: 17%;
+    text-align: center;
+    size: 2em;
+}
+
+header{
+    height: 800px;
+    font-size: 8em;
+    text-align: center;
+    border: 1px solid black;
+}
+
+nav{
+ color: #0D3B66;
+ border: 1px solid black;
+}
+
+nav ul{
+    text-align: center;
+    padding: 2%;
+    border: #0D3B66 thick 5px;
+}
+
+nav ul li{
+    display: inline-block;
+    size: 2em;
+}
+
+nav li{
+    padding: 2%;
+    
+}
+
+nav a{
+    text-decoration: none;
+    
+}
+
+a:hover{
+ color: #F4D35E;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+main article{
+    width: 80%;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+main article section{
+    padding: 2%;
+}
+
+main button{
+    width: 15%;
+    height: 15%;
+    font-size: .5em;
+}
+
+section{
+    border: 1px solid black;
+}
+
+#why{
+    padding: 2%;
+    width: 100%;
+    border: 1px solid black;
+    height: 500px;
+    float: left;
+    font-size: 2em;
+}
+
+#dont{
+    padding: 2%;
+    border: 1px solid black;
+    height: 500px;
+    background-color: #0D3B66;
+    color: #F4D35E;
+    float: left;
+    font-size: 2em;
+}
+
+#this{
+    padding: 2%;
+    border: 1px solid black;
+    height: 500px;
+    float: left;
+    font-size: 2em;
+}
+tr{
+    border: 1px solid black;
+}
+
+#people{
+    text-align: center;
+    font-size: 2em;
+}
+ 
+footer{
+    height: auto;
+    text-align: center;
+    border: 1px solid black;
+    padding: 2%;
+}
